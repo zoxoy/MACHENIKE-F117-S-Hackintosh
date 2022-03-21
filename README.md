@@ -1,4 +1,4 @@
-# MACHENIKE 机械师 F117-S 黑苹果 OpenCore 引导文件
+# MACHENIKE ~~马车耐克~~机械师 F117-S 黑苹果 OpenCore 引导文件
 
 ## 硬件配置
 
@@ -12,7 +12,7 @@
 | 无线网卡：   | Intel Wireless-AC 9462                                |
 | 内置读卡器： | Realtek RTS5129                                       |
 | 摄像头：     | USB2.0 HD UVC WebCam                                |
-|              |                                                       |
+|              
 
 
 #### macOS 版本： macOS High Sierra 10.13.6(17G14042)
