@@ -11,8 +11,7 @@
 | 有线网卡：   | Qualcomm Atheros AR8171/8175                         |
 | 无线网卡：   | Intel Wireless-AC 9462                                |
 | 内置读卡器： | Realtek RTS5129                                       |
-| 摄像头：     | USB2.0 HD UVC WebCam                                |
-|              
+| 摄像头：     | USB2.0 HD UVC WebCam                                |   
 
 
 #### macOS 版本： macOS High Sierra 10.13.6(17G14042)
@@ -23,6 +22,7 @@
 
 - CPU & 风扇
 - 显卡 （需要额外安装 NVIDIA WebDriver）
+- HDMI 视频输出
 - USB 接口
 - 键盘
 - 声卡 / 喇叭 / 耳机 / 内置麦克风
@@ -31,7 +31,6 @@
 - 内置摄像头
 - 睡眠 / 唤醒
 - 蓝牙
-- HDMI 视频输出
 
 ## 以下硬件工作不正常：
 
@@ -41,4 +40,3 @@
 - 内置读卡器
 - HiDPI
 - Wi-Fi 
-
