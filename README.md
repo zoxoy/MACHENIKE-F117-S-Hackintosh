@@ -1,4 +1,4 @@
-# MACHENIKE ~~马车耐克~~机械师 F117-S 黑苹果 OpenCore 引导文件
+# MACHENIKE ~~马车耐克~~机械师 F117-S OpenCore 黑苹果引导文件
 
 ## 硬件配置
 
