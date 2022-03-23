@@ -6,7 +6,7 @@
 | ------------ | ----------------------------------------------------- |
 | 处理器：     | Intel Core i7-8750H (Coffee Lake)                       |
 | 内存：       | 8GB+8GB DDR4 2400MHz                                  |
-| 显卡：       | NVIDIA GeForce GTX1060 6GB                            |
+| 显卡：       | NVIDIA GeForce GTX1060 6GB (无核显)                     |
 | 声卡：       | Realtek ALC269                                       |
 | 有线网卡：   | Qualcomm Atheros AR8171/8175                         |
 | 无线网卡：   | Intel Wireless-AC 9462                                |
